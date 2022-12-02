@@ -1,0 +1,40 @@
+##intellij idea
+.idea
+*.iws
+*.iml
+*.ipr
+
+##serenity
+/serenity.properties
+
+##reports
+target/
+*.zip
+*.gz
+
+##execution_output
+log/
+logs/
+.log
+target
+.html
+/target/
+
+##eclipse
+.settings
+.project
+.classpath
+
+## vs_code
+.vscode
+
+##netbeans
+/nbproject/private/
+/build/
+/nsbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+##mac os
+.DS_Store
